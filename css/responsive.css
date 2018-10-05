@@ -1,0 +1,44 @@
+@media screen and (max-width: 730px){
+	nav{
+		display: none;
+	}
+
+	.inner-page .column, .inner-gallery .column{
+		width: 100%;
+		margin-left: 0px;
+	}
+
+	.hero-container h3{
+		font-size: 18px;
+	}
+
+	.about-us, .inner-two-columns, .inner-about, .partners, .text-section-grey, .text-section{
+		padding: 0px;
+	}
+
+	.cover-info{
+		direction: none;
+	}
+
+	.inner-page .columns, .inner-page-instructions .columns{
+		width: 100%;
+		margin-left: 0px;
+	}
+
+	.submission-form{
+		width: 100%;
+		margin-bottom: 0px;
+	}
+
+	.submission-information{
+		width: 100%;
+		margin-left: 0px;
+		float: left;
+		margin-top: 0px;
+	}
+
+
+
+}
+
+
